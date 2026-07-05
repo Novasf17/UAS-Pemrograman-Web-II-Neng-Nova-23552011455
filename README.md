@@ -141,24 +141,21 @@ http://127.0.0.1:8000
 # Screenshot
 
 ## Halaman Login
-
-<img width="1536" height="1024" alt="WhatsApp Image 2026-07-05 at 12 08 47" src="https://github.com/user-attachments/assets/237fac09-85d5-4cb6-b36b-3cd3652c1ef4" />
+<img width="1536" height="819" alt="WhatsApp Image 2026-07-05 at 12 25 09" src="https://github.com/user-attachments/assets/fe103cc3-e125-4d55-85be-f4e6667ec790" />
 
 ## Dashboard Admin
-<img width="1536" height="1024" alt="WhatsApp Image 2026-07-05 at 12 08 46" src="https://github.com/user-attachments/assets/2df4e71a-3a8a-4a18-be4d-79b837306e71" />
-
+<img width="1536" height="910" alt="WhatsApp Image 2026-07-05 at 12 25 44" src="https://github.com/user-attachments/assets/15c4310a-9287-46aa-b168-9747d229a57c" />
 
 ## Data Buku
+<img width="1536" height="889" alt="WhatsApp Image 2026-07-05 at 12 26 53" src="https://github.com/user-attachments/assets/9ab16432-ccb0-4073-81d0-e1c96bdca455" />
 
-_
 ## Tambah Buku
-
+<img width="1536" height="803" alt="WhatsApp Image 2026-07-05 at 12 26 54" src="https://github.com/user-attachments/assets/a7776065-b652-44fa-836e-63fa63d06718" />
 
 ## Edit Buku
-
+<img width="1536" height="801" alt="WhatsApp Image 2026-07-05 at 12 26 54 (1)" src="https://github.com/user-attachments/assets/dcb225da-1b92-4da2-8194-4f3ee9827da9" />
 
 # Database
-
 Nama Database
 ```
 bookverse
@@ -172,7 +169,6 @@ Tabel
 
 ---
 # Fitur CRUD
-
 | Fitur | Status |
 |--------|--------|
 | Create | ✅ |
@@ -184,11 +180,9 @@ Tabel
 
 Project ini dibuat sebagai tugas UAS Mata Kuliah **Pemrograman Web II**.
 ---
-# Author
-
 **Neng Nova Siti Fathonah**
 ---
-# ⭐ Terima Kasih
+# Terima Kasih
 
 Terima kasih telah mengunjungi repository ini.
 
