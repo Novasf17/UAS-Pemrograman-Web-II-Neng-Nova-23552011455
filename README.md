@@ -1,3 +1,212 @@
+# 📚 BookVerse - Sistem Manajemen Perpustakaan Digital
+
+BookVerse merupakan aplikasi berbasis web yang dikembangkan menggunakan **Laravel 12** sebagai proyek UAS Mata Kuliah **Pemrograman Web II**. Aplikasi ini digunakan untuk membantu proses pengelolaan data buku perpustakaan secara digital sehingga lebih mudah, cepat, dan efisien.
+
+## 👩‍💻 Identitas Mahasiswa
+
+**Nama :** Neng Nova Siti Fathonah
+
+**NIM :** 23552011455
+
+**Mata Kuliah :** Pemrograman Web II
+
+**Dosen Pengampu :** (Isi sesuai nama dosen)
+
+# 📖 Deskripsi Aplikasi
+
+BookVerse adalah aplikasi manajemen perpustakaan sederhana yang memiliki sistem autentikasi (Login & Register) serta fitur CRUD (Create, Read, Update, Delete) data buku.
+
+Aplikasi ini dibangun menggunakan framework Laravel dengan database MySQL.
+
+# 🚀 Fitur Aplikasi
+
+✅ Login Admin
+
+✅ Register Admin
+
+✅ Dashboard Admin
+
+✅ Menampilkan Data Buku
+
+✅ Menambahkan Data Buku
+
+✅ Mengubah Data Buku
+
+✅ Menghapus Data Buku
+
+✅ Profil Admin
+
+✅ Logout
+
+# 🛠️ Teknologi yang Digunakan
+
+- Laravel 12
+- PHP 8.x
+- MySQL
+- Laravel Breeze
+- Tailwind CSS
+- Vite
+- HTML5
+- CSS3
+- JavaScript
+- Git
+- GitHub
+- XAMPP
+- 
+# 📂 Struktur Project`
+bookverse
+│
+├── app
+├── bootstrap
+├── config
+├── database
+├── public
+├── resources
+│   ├── views
+│   ├── css
+│   └── js
+├── routes
+├── storage
+├── vendor
+├── .env
+├── artisan
+└── composer.json
+
+# ⚙️ Cara Menjalankan Project
+
+### 1. Clone Repository
+
+```bash
+git clone https://github.com/Novasf17/UAS-Pemrograman-Web-II-Neng-Nova-23552011455.git
+```
+Masuk ke folder project
+
+```bash
+cd bookverse
+```
+### 2. Install Dependency
+
+```bash
+composer install
+```
+```bash
+npm install
+```
+### 3. Copy File Environment
+
+```bash
+cp .env.example .env
+```
+Generate Key
+
+```bash
+php artisan key:generate
+```
+### 4. Konfigurasi Database
+
+Buat database baru di phpMyAdmin
+```
+bookverse
+```
+Kemudian ubah file **.env**
+```
+DB_CONNECTION=mysql
+DB_HOST=127.0.0.1
+DB_PORT=3306
+DB_DATABASE=bookverse
+DB_USERNAME=root
+DB_PASSWORD=
+```
+---
+### 5. Jalankan Migration
+
+```bash
+php artisan migrate
+```
+---
+### 6. Jalankan Server
+Terminal 1
+```bash
+php artisan serve
+```
+Terminal 2
+```bash
+npm run dev
+```
+Buka browser
+```
+http://127.0.0.1:8000
+```
+---
+# 📸 Screenshot
+
+## Halaman Login
+
+_(Tambahkan screenshot di sini)_
+
+---
+## Dashboard Admin
+
+_(Tambahkan screenshot di sini)_
+
+---
+
+## Data Buku
+
+_(Tambahkan screenshot di sini)_
+
+---
+## Tambah Buku
+
+_(Tambahkan screenshot di sini)_
+---
+## Edit Buku
+
+_(Tambahkan screenshot di sini)_
+
+---
+# 📊 Database
+
+Nama Database
+```
+bookverse
+```
+Tabel
+
+- users
+- books
+- cache
+- jobs
+
+---
+# 📌 Fitur CRUD
+
+| Fitur | Status |
+|--------|--------|
+| Create | ✅ |
+| Read | ✅ |
+| Update | ✅ |
+| Delete | ✅ 
+---
+# 📄 Lisensi
+
+Project ini dibuat sebagai tugas UAS Mata Kuliah **Pemrograman Web II**.
+---
+# 👩‍🎓 Author
+
+**Neng Nova Siti Fathonah**
+GitHub
+https://github.com/Novasf17
+---
+# ⭐ Terima Kasih
+
+Terima kasih telah mengunjungi repository ini.
+
+Semoga aplikasi BookVerse dapat bermanfaat sebagai media pembelajaran pengembangan aplikasi berbasis web menggunakan Laravel.
+
+
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
