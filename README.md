@@ -2,7 +2,7 @@
 
 BookVerse merupakan aplikasi berbasis web yang dikembangkan menggunakan **Laravel 12** sebagai proyek UAS Mata Kuliah **Pemrograman Web II**. Aplikasi ini digunakan untuk membantu proses pengelolaan data buku perpustakaan secara digital sehingga lebih mudah, cepat, dan efisien.
 
-## 👩‍💻 Identitas Mahasiswa
+## Identitas Mahasiswa
 
 **Nama :** Neng Nova Siti Fathonah
 
@@ -12,13 +12,13 @@ BookVerse merupakan aplikasi berbasis web yang dikembangkan menggunakan **Larave
 
 **Dosen Pengampu :** Muhammad Reksa Ariansyah, M.Kom.
 
-# 📖 Deskripsi Aplikasi
+# Deskripsi Aplikasi
 
 BookVerse adalah aplikasi manajemen perpustakaan sederhana yang memiliki sistem autentikasi (Login & Register) serta fitur CRUD (Create, Read, Update, Delete) data buku.
 
 Aplikasi ini dibangun menggunakan framework Laravel dengan database MySQL.
 
-# 🚀 Fitur Aplikasi
+# Fitur Aplikasi
 
 ✅ Login Admin
 
@@ -38,7 +38,7 @@ Aplikasi ini dibangun menggunakan framework Laravel dengan database MySQL.
 
 ✅ Logout
 
-# 🛠️ Teknologi yang Digunakan
+# Teknologi yang Digunakan
 
 - Laravel 12
 - PHP 8.x
@@ -53,7 +53,7 @@ Aplikasi ini dibangun menggunakan framework Laravel dengan database MySQL.
 - GitHub
 - XAMPP
 - 
-# 📂 Struktur Project`
+# Struktur Project`
 bookverse
 │
 ├── app
@@ -72,7 +72,7 @@ bookverse
 ├── artisan
 └── composer.json
 
-# ⚙️ Cara Menjalankan Project
+# Cara Menjalankan Project
 
 ### 1. Clone Repository
 
@@ -138,34 +138,26 @@ Buka browser
 http://127.0.0.1:8000
 ```
 ---
-# 📸 Screenshot
+# Screenshot
 
 ## Halaman Login
 
-__
+<img width="1536" height="1024" alt="WhatsApp Image 2026-07-05 at 12 08 47" src="https://github.com/user-attachments/assets/237fac09-85d5-4cb6-b36b-3cd3652c1ef4" />
 
----
 ## Dashboard Admin
+<img width="1536" height="1024" alt="WhatsApp Image 2026-07-05 at 12 08 46" src="https://github.com/user-attachments/assets/2df4e71a-3a8a-4a18-be4d-79b837306e71" />
 
-_
-
----
 
 ## Data Buku
 
 _
-
----
 ## Tambah Buku
 
-_(Tambahkan screenshot di sini)_
----
+
 ## Edit Buku
 
-_(Tambahkan screenshot di sini)_
 
----
-# 📊 Database
+# Database
 
 Nama Database
 ```
@@ -179,7 +171,7 @@ Tabel
 - jobs
 
 ---
-# 📌 Fitur CRUD
+# Fitur CRUD
 
 | Fitur | Status |
 |--------|--------|
@@ -188,11 +180,11 @@ Tabel
 | Update | ✅ |
 | Delete | ✅ 
 ---
-# 📄 Lisensi
+# Lisensi
 
 Project ini dibuat sebagai tugas UAS Mata Kuliah **Pemrograman Web II**.
 ---
-# 👩‍🎓 Author
+# Author
 
 **Neng Nova Siti Fathonah**
 ---
