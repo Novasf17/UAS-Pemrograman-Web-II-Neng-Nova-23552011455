@@ -10,7 +10,7 @@ BookVerse merupakan aplikasi berbasis web yang dikembangkan menggunakan **Larave
 
 **Mata Kuliah :** Pemrograman Web II
 
-**Dosen Pengampu :** (Isi sesuai nama dosen)
+**Dosen Pengampu :** Muhammad Reksa Ariansyah, M.Kom.
 
 # 📖 Deskripsi Aplikasi
 
@@ -142,18 +142,18 @@ http://127.0.0.1:8000
 
 ## Halaman Login
 
-_(Tambahkan screenshot di sini)_
+__
 
 ---
 ## Dashboard Admin
 
-_(Tambahkan screenshot di sini)_
+_
 
 ---
 
 ## Data Buku
 
-_(Tambahkan screenshot di sini)_
+_
 
 ---
 ## Tambah Buku
@@ -195,8 +195,6 @@ Project ini dibuat sebagai tugas UAS Mata Kuliah **Pemrograman Web II**.
 # 👩‍🎓 Author
 
 **Neng Nova Siti Fathonah**
-GitHub
-https://github.com/Novasf17
 ---
 # ⭐ Terima Kasih
 
